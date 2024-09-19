@@ -70,6 +70,9 @@ tools:
     text: '文本'
     data: '数据'
 
+  javabeanstr-to-json:
+    title: Java Bean字符串转JSON
+    description: 将LombokData注解打印的String转成JSON
   password-strength-analyser:
     title: 密码强度分析仪
     description: 使用此密码强度分析器和破解时间估计工具来发现密码的强度。
